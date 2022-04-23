@@ -1,16 +1,21 @@
-# food_delivery
+# E FLOW
 
-A new Flutter project.
+E FLOW IS AN ECCOMMERCE IS A PLATFORM FOR E-COMMERCE WITH A FOCUS ON FOOD DELIVERY 
 
-## Getting Started
+## FEATURES
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Home page (shows popuplar product and recommended products)
+Sign in and Sign up (sign up with mobile)
+Shopping cart (a real shopping cart with add and remove items on the fly)
+Local cart history page (using a local storage)
+Server cart history page (sync with database)
+Profile page (personal information)
+Popular food page (view popular food, add or remove items from the cart)
+Recommended food page (view recommended food, add or remove from the cart)
+Order more function(newly added feature, it helps you order)
+Go to sign in page (sign in page authentication before you place order)
+Address page (address with authentication before you place order)
+Google map page (for picking up location and save address)
+Backend (backend to show user info and order detail)
+Creating new items (backend you can create new items of food)
+Paypal payment (Paypal payment sync with database)
